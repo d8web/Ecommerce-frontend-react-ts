@@ -1,6 +1,6 @@
-### Ecommerce React-TS frontend
+### E-commerce React-TS frontend
 
-<p>Criei este projeto pois me apaixonei pelo desenvolvimento de ecommerce, nesses projetos existem muitos desafios e diferentes tipos de implementações de lógica do algoritmo.</p>
+<p>Criei este projeto pois me apaixonei pelo desenvolvimento de e-commerce, nesses projetos existem muitos desafios e diferentes tipos de implementações de lógica do algoritmo.</p>
 <p>Logo decidi criar este projeto e também integrá-lo com o backend[em-breve]. Criei com um desafio, estou aprendendo Typescript, logo o frontend está todo tipado.</p>
 
 <img src="https://github.com/d8web/Ecommerce-frontend-react-ts/blob/master/src/images/Anima%C3%A7%C3%A3o.gif"/>
